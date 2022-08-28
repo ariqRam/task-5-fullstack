@@ -9,6 +9,10 @@
 
 ## About This Project
 
+![Login page of Investree Blog](./screenshot-1.png)
+![Posts page of Investree Blog](./screenshot-2.png)
+
+
 This project was created for the [Rakamin Academy Virtual Internship Program](https://www.rakamin.com/virtual-internship-experience/investree-fullstack-developer). The program consisted of 4 weeks of video-based and text-based material covering web programming with PHP as well as Laravel concepts such as Eloquent, Passport, and Laravel UI.
 
 ## Versions Used
